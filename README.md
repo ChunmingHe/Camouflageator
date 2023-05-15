@@ -1,4 +1,4 @@
-# FEDER
+# Camouflageator
 **Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**,  ICCV in submission
 
 [Paper] [Supplementary material] [[Results] [[Pretrained models]
