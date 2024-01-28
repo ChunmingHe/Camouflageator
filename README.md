@@ -1,5 +1,5 @@
 # Camouflageator
-**Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**,  ICCV in submission
+**Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**,  ICLR 2024
 
 [Paper] [Supplementary material] [Results] [Pretrained models]
 
