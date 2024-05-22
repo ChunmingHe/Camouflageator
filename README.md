@@ -1,7 +1,7 @@
 # Camouflageator
 **Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**,  ICLR 2024
 
-[[Paper](https://arxiv.org/pdf/2308.03166)] [Supplementary material] [[Results](https://pan.baidu.com/s/1osvAanBj8cfWx836zVyfrw?pwd=6666)] [[Pretrained models](https://pan.baidu.com/s/1WkRpCccqGNXK647EUDNNJQ?pwd=6666)]
+[[Paper](https://arxiv.org/pdf/2308.03166)] [Supplementary material] [[Results]] [[Pretrained models]]
 
 # Other information will be added in this week!
 
